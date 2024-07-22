@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://emonsitum.github.io/sitemap
+Sitemap: https://emonsitum.github.io/app/sitemap
+Sitemap: https://emonsitum.github.io/assets/sitemap
+Sitemap: https://emonsitum.github.io/css/sitemap
+Sitemap: https://emonsitum.github.io/includes/sitemap
+Sitemap: https://emonsitum.github.io/item/sitemap
+Sitemap: https://emonsitum.github.io/src/sitemap
